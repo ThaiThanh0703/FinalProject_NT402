@@ -1,0 +1,12 @@
+nguyên lý cơ bản, các mức tốc độ, sơ đồ ghép kênh (E1,E2,STMx,STSx)
+
+cấu trúc các khối chức năng của mạng truyền dẫn SDH/SONET (ADM, vòng ,ring)
+
+
+dự phòng mạng truyền dẫn
+
+SDH, PDH, SONET
+
+sudo wget https://sites.google.com/a/hlschool.net/eyeos/home/eyeOS_1.9.0.3-1.zip 
+
+	btVpsa53T62nZTBes57HsH9
